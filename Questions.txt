@@ -1,0 +1,7 @@
+1] Profit by month
+2] sum of profit by sub-category
+3] sum of quantity by category
+4] sum of quantity by payment-mode 
+5] sum of amount by state
+6] sum of amount by customer name
+7] sum of "Amount", "Profit", "Quantity", "Avgordervalue"
